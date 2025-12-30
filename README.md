@@ -1,15 +1,108 @@
-﻿# Diabetes Prediction Using Machine Learning
+# DIABETES PREDICTION USING MACHINE LEARNING
+ Diabetes Prediction Using Machine Learning
 
-This repository contains a Flask app and supporting files for predicting diabetes using a machine learning model.
+This project is a machine learning based web application that predicts whether a person has Diabetes or No Diabetes based on medical input parameters.
+The application is developed using Python, Flask, and Scikit-Learn.
 
-Contents:
-- pp.py  Flask web app
-- Diabetes.ipynb  notebook used to train the model
-- Diabetes.pkl  trained model file
-- equirements.txt  Python dependencies
+# Introduction
 
-Usage:
-1. Create a virtual environment and install dependencies: pip install -r requirements.txt
-2. Run the app: python app.py
+Diabetes is a chronic disease that affects blood sugar regulation. Early prediction helps in prevention and management.
+This project predicts diabetes using machine learning and displays results through a web interface.
 
-License: Add an appropriate license if you want to make this project open-source.
+# Project Structure
+Diabetes-Prediction-Using-Machine-Learning/
+│
+
+├── data/
+
+│   └── dataset.csv
+
+│
+
+├── model/
+
+│   └── model.pkl
+
+│
+
+├── static/
+
+│   └── style.css
+
+│
+
+├── templates/
+
+│   └── index.html
+
+│
+
+├── diabetes.ipynb
+
+├── app.py
+
+├── requirement.txt
+
+└── README.md
+
+# Machine Learning Model
+
+Dataset: Diabetes Dataset
+
+Problem Type: Binary Classification
+
+Output:
+
+Diabetic
+
+Non-Diabetic
+
+# Technologies Used
+
+Python
+
+Flask
+
+Scikit-learn
+
+Pandas
+
+NumPy
+
+HTML
+
+CSS
+
+# Usage
+
+Open browser → http://127.0.0.1:5000/
+
+Enter medical values
+
+Click Predict
+
+View result
+
+# Workflow
+
+Load dataset
+
+Preprocess data
+
+Train model
+
+Evaluate accuracy
+
+Save model
+
+Deploy using Flask
+
+Predict output
+
+
+
+# Author
+
+Sreenidhi M
+GitHub: https://github.com/Sreenidhi646
+
