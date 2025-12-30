@@ -73,16 +73,6 @@ HTML
 
 CSS
 
-# Usage
-
-Open browser → http://127.0.0.1:5000/
-
-Enter medical values
-
-Click Predict
-
-View result
-
 # Workflow
 
 Load dataset
@@ -105,4 +95,5 @@ Predict output
 
 Sreenidhi M
 GitHub: https://github.com/Sreenidhi646
+
 
