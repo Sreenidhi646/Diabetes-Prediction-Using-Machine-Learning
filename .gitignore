@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+.ipynb_checkpoints
+env/
+venv/
+diabetes_prediction_dataset.csv
+.DS_Store
+.vscode/
+.idea/
+*.pkl
