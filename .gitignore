@@ -8,3 +8,4 @@ diabetes_prediction_dataset.csv
 .vscode/
 .idea/
 *.pkl
+!Diabetes.pkl
